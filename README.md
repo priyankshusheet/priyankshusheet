@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Priyankshu Sheet, an iOS developer in the making, passionate about building interactive, user-friendly apps using Swift and SwiftUI.<br>I’m also into design, UI/UX, and full-stack development, aiming to build aesthetically pleasing and functional digital experiences—whether it’s a mobile app or a web project.<br>I love blending tech with creativity. Beyond tech, I’m a writer, poet, and musician—I love ghazals, writing shayaris, and composing music. But at the core, I’m all about crafting experiences, whether through code or creativity.
+I’m Priyankshu Sheet, an iOS developer in the making, passionate about building interactive, user-friendly apps using Swift and SwiftUI. I’m also into design, UI/UX, and full-stack development, aiming to build aesthetically pleasing and functional digital experiences—whether it’s a mobile app or a web project. I love blending tech with creativity. Beyond tech, I’m a writer, poet, and musician—I love ghazals, writing shayaris, and composing music. But at the core, I’m all about crafting experiences, whether through code or creativity.
 
 
 ## 🌐 Socials:
