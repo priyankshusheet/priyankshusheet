@@ -26,12 +26,12 @@ Aspiring Software Developer with a strong academic foundation in Electronics and
 ## 📊 GitHub Stats
 
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages Used" />
 </p>
 
