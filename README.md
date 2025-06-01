@@ -30,12 +30,12 @@ Aspiring Software Developer with a strong academic foundation in Electronics and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages (More accurate if include private repos & commits) -->
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages Used" />
 </p>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankshusheet&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
