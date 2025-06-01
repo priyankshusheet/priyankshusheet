@@ -23,9 +23,23 @@ Aspiring Software Developer with a strong academic foundation in Electronics and
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages (More accurate if include private repos & commits) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages" />
+</p>
+
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankshusheet&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+</p>
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
