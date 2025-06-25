@@ -28,7 +28,7 @@ Aspiring Software Developer with a strong academic foundation in Electronics and
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" width="420" />
+  <img src="https://streak-stats.demolab.com?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" width="420" />
 </p>
 
 <p align="left">
@@ -43,5 +43,3 @@ Aspiring Software Developer with a strong academic foundation in Electronics and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyankshusheet&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
