@@ -1,45 +1,57 @@
-# 💫 About Me:
-Aspiring Software Developer with a strong academic foundation in Electronics and Communication Engineering and hands-on expertise in iOS app development using Swift and SwiftUI. Proficient in C++ for algorithm design and experienced in applying data structures and object-oriented programming to real-world applications. Skilled in building and deploying user-centric, responsive iOS apps, integrating RESTful APIs, and leveraging Core ML for intelligent features. Demonstrated ability to manage version control with Git/GitHub, work in Agile environments, and develop full-cycle apps from concept to App Store-ready prototypes. Passionate about crafting clean, maintainable code and continuously expanding knowledge across platforms and technologies.
+<!-- ✨ Interactive & Modern GitHub README for Priyankshu Sheet -->
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankshusheet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshutherevealer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/priyanshureveal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@swiftapplab_priyankshusheet) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/priyankreveale) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Priyanshu-The-Revealer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29435209/priyankshu-sheet)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/priyankshusheet) 
-
-# 💻 Tech Stack:
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" width="420" />
+<h1 align="center">Hey there, I'm Priyankshu 👋</h1>
+<p align="center">
+  <i>iOS Developer · C++ Enthusiast · SwiftUI Addict · MERN Explorer</i>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10&include_all_commits=true&count_private=true" alt="Top Languages Used" width="420" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;SwiftUI+%2B+Core+ML+Dev;DSA+%7C+C%2B%2B+%7C+Swift;Always+Building+Something+Cool!+🚀" alt="Typing SVG" />
 </p>
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyankshusheet&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=priyankshusheet&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+🎓 Electronics & Communication Engineering undergrad with a creative flair for software solutions.  
+📱 Passionate iOS developer building intuitive SwiftUI apps integrated with APIs and Core ML.  
+🧠 Strong in algorithms, data structures, and object-oriented principles using C++.  
+🚀 Enjoy crafting full-cycle mobile apps — from idea to App Store-ready!  
+🌱 Currently exploring: React, Firebase, AWS, and MERN stack for full-stack finesse.
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/priyankshusheet"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/priyanshutherevealer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/priyanshureveal"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+  <a href="https://youtube.com/@swiftapplab_priyankshusheet"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white"/></a>
+  <a href="https://www.behance.net/priyankreveale"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
+  <a href="https://www.quora.com/profile/Priyanshu-The-Revealer"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/29435209/priyankshu-sheet"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://codepen.io/priyankshusheet"><img src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Toolbox
+
+### 🔧 Languages, Frameworks & Tools I Love Using:
+
+```text
+💻 Languages:       Swift · C++ · Python · JavaScript · TypeScript · HTML/CSS
+📱 Mobile Dev:      SwiftUI · UIKit · Core ML · Firebase · REST APIs
+🌐 Web Dev:         React · Tailwind CSS · Node.js · MongoDB
+🧰 Tools:           Git · GitHub · Figma · Xcode · AWS · Canva
+<p align="left"> <img src="https://skillicons.dev/icons?i=swift,cpp,python,js,ts,react,tailwind,html,css,mongodb,firebase,aws,git,github,figma,canva&theme=dark" /> </p>
+📊 GitHub Insights
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=priyankshusheet&theme=dark&hide_border=false" alt="GitHub Streak" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankshusheet&layout=compact&theme=dark&hide_border=false&langs_count=10" alt="Top Langs" width="49%"/> </p> <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=priyankshusheet&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions"/> </p>
+✍️ Dev Quote of the Day
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/> </p>
+📈 Visitors
+
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=priyankshusheet&icon=0&color=0" /> </p> ```
