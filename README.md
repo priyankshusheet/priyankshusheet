@@ -138,7 +138,7 @@ const priyankshu = {
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
