@@ -41,7 +41,7 @@ const priyankshu = {
 
 <table>
   <tr>
-     <td align="center" width="120px">
+    <td align="center" width="120px">
       <img src="https://img.shields.io/badge/Dec_2025-Now-990F4B?style=for-the-badge" alt="Present">
     </td>
     <td>
@@ -51,9 +51,6 @@ const priyankshu = {
     </td>
   </tr>
   <tr>
-    <td align="center" width="120px">
-      <img src="https://img.shields.io/badge/2025-Now-990F4B?style=for-the-badge" alt="Present">
-    </td>
     <td align="center" width="120px">
       <img src="https://img.shields.io/badge/2025-Now-990F4B?style=for-the-badge" alt="Present">
     </td>
