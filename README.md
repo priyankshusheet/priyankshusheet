@@ -141,14 +141,6 @@ const priyankshu = {
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyankshusheet/priyankshusheet/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyankshusheet/priyankshusheet/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/priyankshusheet/priyankshusheet/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankshusheet&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D031B&color=EAE6E1&line=990F4B&point=6C244C&area=true&area_color=8C0048" width="95%" alt="Contribution Graph"/>
 </div>
 
