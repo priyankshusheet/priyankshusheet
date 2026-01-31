@@ -47,7 +47,7 @@ const priyankshu = {
     <td>
       <h3>💻 Full Stack Developer Intern @ HealTether Healthcare</h3>
       <em>Combining cutting-edge technology with the irreplaceable human touch in Healthcare, empowering clinicians with tools that enhance, not replace, their expertise.</em><br>
-      <sub>Environment: Collaboration with professionals from AIIMS & IIT | Real-world engineering problems</sub>
+      <sub>Environment: Collaboration with professionals from AIIMS & IIT | Real-world engineering problems | MedTech</sub>
     </td>
   </tr>
   <tr>
