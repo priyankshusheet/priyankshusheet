@@ -41,6 +41,19 @@ const priyankshu = {
 
 <table>
   <tr>
+     <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/Dec_2025-Now-990F4B?style=for-the-badge" alt="Present">
+    </td>
+    <td>
+      <h3>💻 Full Stack Developer Intern @ HealTether Healthcare</h3>
+      <em>Working with an experienced team on web application design, development, and implementation</em><br>
+      <sub>Environment: Collaboration with professionals from AIIMS & IIT | Real-world engineering problems</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120px">
+      <img src="https://img.shields.io/badge/2025-Now-990F4B?style=for-the-badge" alt="Present">
+    </td>
     <td align="center" width="120px">
       <img src="https://img.shields.io/badge/2025-Now-990F4B?style=for-the-badge" alt="Present">
     </td>
