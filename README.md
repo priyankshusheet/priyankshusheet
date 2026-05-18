@@ -217,7 +217,7 @@ const priyankshu = {
 <h3>Contribution Streak & Repository Stats</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dracula" width="48%" alt="Streak Stats"/> 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankshusheet&theme=dracula" width="48%" height="100" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankshusheet&theme=dracula" width="48%" height="150" alt="Stats"/>
 
 </div>
 
