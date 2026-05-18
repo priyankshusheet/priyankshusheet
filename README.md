@@ -212,7 +212,7 @@ const priyankshu = {
 
 <br>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:space-between;">
 
 <h3>Contribution Streak & Repository Stats</h3>
 
