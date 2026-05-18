@@ -218,12 +218,12 @@ const priyankshu = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dracula"
      width="48%"
-     height="200"
+     height="100"
      alt="Streak Stats"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankshusheet&theme=dracula"
      width="48%"
-     height="200"
+     height="100"
      alt="Stats"/>
 
 </div>
