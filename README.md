@@ -212,21 +212,19 @@ const priyankshu = {
 
 <br>
 
-<div align="center" style="display:flex; justify-content:space-between;">
+<h3 align="center">Contribution Streak & Repository Stats</h3>
 
-<h3>Contribution Streak & Repository Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dracula"
+       width="48%"
+       height="180"
+       alt="Streak Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankshusheet&theme=dracula"
-     width="48%"
-     height="100"
-     alt="Streak Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankshusheet&theme=dracula"
-     width="48%"
-     height="100"
-     alt="Stats"/>
-
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyankshusheet&theme=dracula"
+       width="48%"
+       height="180"
+       alt="Stats"/>
+</p>
 
 ---
 
